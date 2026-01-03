@@ -248,12 +248,12 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
     - img: https://free.picui.cn/free/2026/01/02/69577ef01a016.png
       link:
       text: 微信
-    - img: https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMdaM7Ut6mPtjjFYx3fksPxwxp2zaUAAiPJMRtSUXFSmCKzqw5HJf8BAAMCAAN5AAM2BA.png
+    - img: https://free.picui.cn/free/2026/01/02/69577ef01a016.png
       link:
       text: 支付宝
 
