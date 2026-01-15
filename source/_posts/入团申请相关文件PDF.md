@@ -12,7 +12,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://free.picui.cn/free/2025/10/04/68e06f67168b6.png
+cover: https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMvaWj_K4SUdXvbBq1f61XljcPyHQADVgtrGySQSVOJAAF9p-vVcGsBAAMCAAN3AAM4BA.jpg
 date: '2025-06-29T14:44:46+08:00'
 description: null
 highlight_shrink: null

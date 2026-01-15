@@ -12,7 +12,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://free.picui.cn/free/2025/10/03/68df4520988ea.jpg
+cover: https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMxaWj_pe-EEvTpoFPw3j-jNfwG-88AAlgLaxskkElTCq0QrBsj5b0BAAMCAAN5AAM4BA.jpg
 date: '2025-05-01T00:13:55+08:00'
 description: null
 highlight_shrink: null
